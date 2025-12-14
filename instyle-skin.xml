@@ -1,16 +1,61 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>InStyle – Skin</title>
-    <link>https://www.instyle.com/skin-5341478</link>
-    <description>InStyle Skin Category RSS</description>
-    <language>en-us</language>
-
-    <item>
-      <title>Test Article</title>
-      <link>https://www.instyle.com/skin/test-article</link>
-      <pubDate>Tue, 10 Dec 2025 09:00:00 GMT</pubDate>
-    </item>
-
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[InStyle – Skin]]></title>
+        <description><![CDATA[InStyle – Skin]]></description>
+        <link>https://www.instyle.com/skin-5341478</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sun, 14 Dec 2025 04:37:23 GMT</lastBuildDate>
+        <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/nordstrom-under-50-fashion-beauty-gifts-11867440</link>
+            <guid isPermaLink="true">https://www.instyle.com/nordstrom-under-50-fashion-beauty-gifts-11867440</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/best-early-nordstrom-half-yearly-sale-deals-2025-11867492</link>
+            <guid isPermaLink="true">https://www.instyle.com/best-early-nordstrom-half-yearly-sale-deals-2025-11867492</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/amlactin-daily-nourish-body-lotion-11867363</link>
+            <guid isPermaLink="true">https://www.instyle.com/amlactin-daily-nourish-body-lotion-11867363</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/age-reversing-eye-creams-under-25-amazon-11866975</link>
+            <guid isPermaLink="true">https://www.instyle.com/age-reversing-eye-creams-under-25-amazon-11866975</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/gen-z-holiday-gifts-2025-11864702</link>
+            <guid isPermaLink="true">https://www.instyle.com/gen-z-holiday-gifts-2025-11864702</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/best-exfoliators-for-sensitive-skin-8549702</link>
+            <guid isPermaLink="true">https://www.instyle.com/best-exfoliators-for-sensitive-skin-8549702</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/jane-fonda-anti-aging-beauty-routine-11863459</link>
+            <guid isPermaLink="true">https://www.instyle.com/jane-fonda-anti-aging-beauty-routine-11863459</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/fashion-beauty-holiday-gifts-for-mom-11863177</link>
+            <guid isPermaLink="true">https://www.instyle.com/fashion-beauty-holiday-gifts-for-mom-11863177</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/jennifer-aniston-oneskin-age-reversal-moisturizer-11860597</link>
+            <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-oneskin-age-reversal-moisturizer-11860597</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/weleda-skin-food-cream-gwyneth-paltrow-amazon-11860595</link>
+            <guid isPermaLink="true">https://www.instyle.com/weleda-skin-food-cream-gwyneth-paltrow-amazon-11860595</guid>
+        </item>
+    </channel>
 </rss>
