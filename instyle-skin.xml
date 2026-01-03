@@ -4,13 +4,18 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 03 Jan 2026 05:44:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Jan 2026 06:55:38 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/daybird-4-in-1-serum-skin-tint-review-11731394</link>
             <guid isPermaLink="true">https://www.instyle.com/daybird-4-in-1-serum-skin-tint-review-11731394</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-anti-aging-skin-care-routine-11877827</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-anti-aging-skin-care-routine-11877827</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jane-fonda-anti-aging-beauty-products-11872513</link>
             <guid isPermaLink="true">https://www.instyle.com/jane-fonda-anti-aging-beauty-products-11872513</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/make-beauty-diffusion-dew-skin-tint-review-11874712</link>
-            <guid isPermaLink="true">https://www.instyle.com/make-beauty-diffusion-dew-skin-tint-review-11874712</guid>
         </item>
     </channel>
 </rss>
