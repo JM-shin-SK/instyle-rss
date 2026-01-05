@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Jan 2026 17:45:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jan 2026 18:58:29 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/heidi-klum-minuscule-yellow-string-bikini-bicep-curls-11879136</link>
+            <guid isPermaLink="true">https://www.instyle.com/heidi-klum-minuscule-yellow-string-bikini-bicep-curls-11879136</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/matkas-firming-hyaluronic-acid-serum-amazon-11875510</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/medik8-press-glow-toner-review-dua-lipa-11875544</link>
             <guid isPermaLink="true">https://www.instyle.com/medik8-press-glow-toner-review-dua-lipa-11875544</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/editor-favorite-amazon-products-2025-11875535</link>
-            <guid isPermaLink="true">https://www.instyle.com/editor-favorite-amazon-products-2025-11875535</guid>
         </item>
     </channel>
 </rss>
