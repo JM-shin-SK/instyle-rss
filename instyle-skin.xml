@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 06 Jan 2026 05:02:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Jan 2026 07:01:16 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</link>
+            <guid isPermaLink="true">https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/olivia-munn-estee-lauder-re-nutriv-diamond-moisturizer-11879413</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jennifer-aniston-jovs-led-light-therapy-mask-amazon-11877001</link>
             <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-jovs-led-light-therapy-mask-amazon-11877001</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/beauty-editor-tested-products-december-2025-11875415</link>
-            <guid isPermaLink="true">https://www.instyle.com/beauty-editor-tested-products-december-2025-11875415</guid>
         </item>
     </channel>
 </rss>
