@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 10 Jan 2026 22:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jan 2026 23:32:51 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -39,6 +39,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/winter-skin-care-products-over-40-11866720</link>
+            <guid isPermaLink="true">https://www.instyle.com/winter-skin-care-products-over-40-11866720</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/matkas-firming-hyaluronic-acid-serum-amazon-11875510</link>
             <guid isPermaLink="true">https://www.instyle.com/matkas-firming-hyaluronic-acid-serum-amazon-11875510</guid>
         </item>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/roc-multicorrexion-neck-face-cream-amazon-11877930</link>
             <guid isPermaLink="true">https://www.instyle.com/roc-multicorrexion-neck-face-cream-amazon-11877930</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-anti-aging-skin-care-routine-11877827</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-anti-aging-skin-care-routine-11877827</guid>
         </item>
     </channel>
 </rss>
