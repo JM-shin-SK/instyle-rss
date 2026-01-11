@@ -4,13 +4,18 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 11 Jan 2026 05:48:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Jan 2026 06:57:26 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-alastin-skin-care-11882256</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-alastin-skin-care-11882256</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/elm-biosciences-martha-stewart-anti-aging-serum-11881546</link>
+            <guid isPermaLink="true">https://www.instyle.com/elm-biosciences-martha-stewart-anti-aging-serum-11881546</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/daybird-4-in-1-serum-skin-tint-review-11731394</link>
             <guid isPermaLink="true">https://www.instyle.com/daybird-4-in-1-serum-skin-tint-review-11731394</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/roc-multicorrexion-neck-face-cream-amazon-11877930</link>
-            <guid isPermaLink="true">https://www.instyle.com/roc-multicorrexion-neck-face-cream-amazon-11877930</guid>
         </item>
     </channel>
 </rss>
