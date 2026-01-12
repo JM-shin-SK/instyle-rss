@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jan 2026 15:52:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 16:58:28 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/best-oil-absorbing-products-7090382</link>
+            <guid isPermaLink="true">https://www.instyle.com/best-oil-absorbing-products-7090382</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/mom-approved-alastin-skin-care-hydratint-review-11882741</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/heidi-klum-minuscule-yellow-string-bikini-bicep-curls-11879136</link>
             <guid isPermaLink="true">https://www.instyle.com/heidi-klum-minuscule-yellow-string-bikini-bicep-curls-11879136</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/winter-skin-care-products-over-40-11866720</link>
-            <guid isPermaLink="true">https://www.instyle.com/winter-skin-care-products-over-40-11866720</guid>
         </item>
     </channel>
 </rss>
