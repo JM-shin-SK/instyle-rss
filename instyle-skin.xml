@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 05:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 06:23:41 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</link>
+            <guid isPermaLink="true">https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/amal-george-clooney-charlotte-tilbury-magic-cream-11883822</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-moisturizer-11879167</link>
             <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-moisturizer-11879167</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</link>
-            <guid isPermaLink="true">https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</guid>
         </item>
     </channel>
 </rss>
