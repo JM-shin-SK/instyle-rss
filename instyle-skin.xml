@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 13 Jan 2026 13:36:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 14:19:19 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sarah-michelle-gellar-beauty-favorites-11881170</link>
             <guid isPermaLink="true">https://www.instyle.com/sarah-michelle-gellar-beauty-favorites-11881170</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-moisturizer-11879167</link>
-            <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-moisturizer-11879167</guid>
         </item>
     </channel>
 </rss>
