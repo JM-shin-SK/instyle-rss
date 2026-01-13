@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 12 Jan 2026 23:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jan 2026 03:54:28 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/amal-george-clooney-charlotte-tilbury-magic-cream-11883822</link>
+            <guid isPermaLink="true">https://www.instyle.com/amal-george-clooney-charlotte-tilbury-magic-cream-11883822</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/best-oil-absorbing-products-7090382</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</link>
             <guid isPermaLink="true">https://www.instyle.com/diane-von-furstenberg-natura-bisse-diamond-cocoon-cream-skin-tint-11879603</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/olivia-munn-estee-lauder-re-nutriv-diamond-moisturizer-11879413</link>
-            <guid isPermaLink="true">https://www.instyle.com/olivia-munn-estee-lauder-re-nutriv-diamond-moisturizer-11879413</guid>
         </item>
     </channel>
 </rss>
