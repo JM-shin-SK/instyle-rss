@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 14 Jan 2026 10:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jan 2026 11:15:31 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -16,6 +16,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/best-led-face-masks-6743925</link>
             <guid isPermaLink="true">https://www.instyle.com/best-led-face-masks-6743925</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</link>
+            <guid isPermaLink="true">https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/oprah-anti-aging-skin-care-routine-amazon-11882640</link>
             <guid isPermaLink="true">https://www.instyle.com/oprah-anti-aging-skin-care-routine-amazon-11882640</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/jennifer-aniston-skin-care-routine-11858097</link>
-            <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-skin-care-routine-11858097</guid>
         </item>
     </channel>
 </rss>
