@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 16 Jan 2026 07:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 08:20:49 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/elle-fanning-used-l-oreal-lumi-glotion-skin-tint-11886378</link>
+            <guid isPermaLink="true">https://www.instyle.com/elle-fanning-used-l-oreal-lumi-glotion-skin-tint-11886378</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/good-molecules-gentle-retinol-cream-amazon-11885231</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/mom-approved-alastin-skin-care-hydratint-review-11882741</link>
             <guid isPermaLink="true">https://www.instyle.com/mom-approved-alastin-skin-care-hydratint-review-11882741</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-alastin-skin-care-11882256</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-alastin-skin-care-11882256</guid>
         </item>
     </channel>
 </rss>
