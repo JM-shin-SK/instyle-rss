@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 06:26:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 07:22:10 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -21,6 +21,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-cle-de-peau-eye-contour-cream-11885703</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-cle-de-peau-eye-contour-cream-11885703</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/hudson-williams-medik8-liquid-peptides-review-11886998</link>
+            <guid isPermaLink="true">https://www.instyle.com/hudson-williams-medik8-liquid-peptides-review-11886998</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</link>
-            <guid isPermaLink="true">https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</guid>
         </item>
     </channel>
 </rss>
