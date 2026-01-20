@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 20 Jan 2026 05:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jan 2026 06:26:14 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/naomi-watts-keren-bartov-intense-lift-cream-moisturizer-11887667</link>
+            <guid isPermaLink="true">https://www.instyle.com/naomi-watts-keren-bartov-intense-lift-cream-moisturizer-11887667</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sweed-beauty-glass-skin-foundation-review-11886354</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</link>
             <guid isPermaLink="true">https://www.instyle.com/gwyneth-paltrow-saie-slip-skin-tint-11883936</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/amal-george-clooney-charlotte-tilbury-magic-cream-11883822</link>
-            <guid isPermaLink="true">https://www.instyle.com/amal-george-clooney-charlotte-tilbury-magic-cream-11883822</guid>
         </item>
     </channel>
 </rss>
