@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 21 Jan 2026 08:22:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jan 2026 09:26:32 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/jane-fonda-anti-aging-beauty-products-amazon-11888870</link>
+            <guid isPermaLink="true">https://www.instyle.com/jane-fonda-anti-aging-beauty-products-amazon-11888870</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/naomi-watts-keren-bartov-intense-lift-cream-moisturizer-11887667</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</link>
             <guid isPermaLink="true">https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-elm-biosciences-retinol-night-cream-11884038</guid>
         </item>
     </channel>
 </rss>
