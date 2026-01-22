@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 22 Jan 2026 01:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jan 2026 03:41:40 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/amanda-batula-galentines-day-favorites-amazon-11890060</link>
+            <guid isPermaLink="true">https://www.instyle.com/amanda-batula-galentines-day-favorites-amazon-11890060</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jane-fonda-anti-aging-beauty-products-amazon-11888870</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/best-led-face-masks-6743925</link>
             <guid isPermaLink="true">https://www.instyle.com/best-led-face-masks-6743925</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</link>
-            <guid isPermaLink="true">https://www.instyle.com/fran-drescher-laura-geller-double-take-foundation-11884675</guid>
         </item>
     </channel>
 </rss>
