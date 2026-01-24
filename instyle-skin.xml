@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 24 Jan 2026 07:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jan 2026 08:18:40 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-anti-aging-skin-care-regimen-11890452</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-anti-aging-skin-care-regimen-11890452</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/dr-althea-147-barrier-cream-review-amazon-11890737</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/good-molecules-gentle-retinol-cream-amazon-11885231</link>
             <guid isPermaLink="true">https://www.instyle.com/good-molecules-gentle-retinol-cream-amazon-11885231</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-anti-aging-skin-care-amazon-11884950</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-anti-aging-skin-care-amazon-11884950</guid>
         </item>
     </channel>
 </rss>
