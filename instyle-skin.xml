@@ -4,9 +4,19 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Jan 2026 21:17:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jan 2026 22:15:21 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/beauty/skin/best-eye-serums</link>
+            <guid isPermaLink="true">https://www.instyle.com/beauty/skin/best-eye-serums</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/nara-smith-clarins-lip-perfector-campaign-11892631</link>
+            <guid isPermaLink="true">https://www.instyle.com/nara-smith-clarins-lip-perfector-campaign-11892631</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-cream-11890465</link>
@@ -46,16 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jane-fonda-anti-aging-beauty-products-amazon-11888870</link>
             <guid isPermaLink="true">https://www.instyle.com/jane-fonda-anti-aging-beauty-products-amazon-11888870</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/naomi-watts-keren-bartov-intense-lift-cream-moisturizer-11887667</link>
-            <guid isPermaLink="true">https://www.instyle.com/naomi-watts-keren-bartov-intense-lift-cream-moisturizer-11887667</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/sweed-beauty-glass-skin-foundation-review-11886354</link>
-            <guid isPermaLink="true">https://www.instyle.com/sweed-beauty-glass-skin-foundation-review-11886354</guid>
         </item>
     </channel>
 </rss>
