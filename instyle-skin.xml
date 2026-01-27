@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 27 Jan 2026 16:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jan 2026 17:22:43 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/jennifer-lopez-makeup-free-plunging-bra-natural-hair-11893353</link>
+            <guid isPermaLink="true">https://www.instyle.com/jennifer-lopez-makeup-free-plunging-bra-natural-hair-11893353</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/beauty/skin/best-eye-serums</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/hailey-bieber-naturium-glow-getter-body-butter-amazon-11890492</link>
             <guid isPermaLink="true">https://www.instyle.com/hailey-bieber-naturium-glow-getter-body-butter-amazon-11890492</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-sisley-paris-firming-face-oil-11890473</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-sisley-paris-firming-face-oil-11890473</guid>
         </item>
     </channel>
 </rss>
