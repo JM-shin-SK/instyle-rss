@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 28 Jan 2026 06:26:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jan 2026 07:20:21 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -21,6 +21,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/beauty/skin/best-eye-serums</link>
             <guid isPermaLink="true">https://www.instyle.com/beauty/skin/best-eye-serums</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-beauty-products-mom-review-amazon-11892743</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-beauty-products-mom-review-amazon-11892743</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-anti-aging-skin-care-regimen-11890452</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-anti-aging-skin-care-regimen-11890452</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/dr-althea-147-barrier-cream-review-amazon-11890737</link>
-            <guid isPermaLink="true">https://www.instyle.com/dr-althea-147-barrier-cream-review-amazon-11890737</guid>
         </item>
     </channel>
 </rss>
