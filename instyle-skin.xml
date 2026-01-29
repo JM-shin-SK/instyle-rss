@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 29 Jan 2026 11:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jan 2026 12:39:22 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -34,6 +34,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</link>
+            <guid isPermaLink="true">https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/beauty/skin/best-eye-serums</link>
             <guid isPermaLink="true">https://www.instyle.com/beauty/skin/best-eye-serums</guid>
         </item>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/nara-smith-clarins-lip-perfector-campaign-11892631</link>
             <guid isPermaLink="true">https://www.instyle.com/nara-smith-clarins-lip-perfector-campaign-11892631</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-cream-11890465</link>
-            <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-oneskin-anti-aging-cream-11890465</guid>
         </item>
     </channel>
 </rss>
