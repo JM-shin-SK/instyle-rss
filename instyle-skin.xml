@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Jan 2026 10:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jan 2026 11:22:34 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/editor-tested-fashion-beauty-favorites-january-2026-11895534</link>
+            <guid isPermaLink="true">https://www.instyle.com/editor-tested-fashion-beauty-favorites-january-2026-11895534</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/best-body-washes-for-dry-skin-8663031</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-beauty-products-mom-review-amazon-11892743</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-beauty-products-mom-review-amazon-11892743</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/arvesa-skin-firming-retinol-moisturizer-amazon-11892717</link>
-            <guid isPermaLink="true">https://www.instyle.com/arvesa-skin-firming-retinol-moisturizer-amazon-11892717</guid>
         </item>
     </channel>
 </rss>
