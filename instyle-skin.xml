@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Jan 2026 09:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Jan 2026 10:17:00 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/beauty-editor-tested-products-january-2026-11896560</link>
+            <guid isPermaLink="true">https://www.instyle.com/beauty-editor-tested-products-january-2026-11896560</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/firming-body-creams-amazon-mom-approved-11894425</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</link>
             <guid isPermaLink="true">https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/beauty/skin/best-eye-serums</link>
-            <guid isPermaLink="true">https://www.instyle.com/beauty/skin/best-eye-serums</guid>
         </item>
     </channel>
 </rss>
