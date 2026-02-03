@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Feb 2026 23:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Feb 2026 01:24:43 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/heidi-klum-loreal-midnight-cream-anti-aging-moisturizer-11897799</link>
+            <guid isPermaLink="true">https://www.instyle.com/heidi-klum-loreal-midnight-cream-anti-aging-moisturizer-11897799</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/beauty-editor-tested-products-january-2026-11896560</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/classic-haircuts-11858014</link>
             <guid isPermaLink="true">https://www.instyle.com/classic-haircuts-11858014</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</link>
-            <guid isPermaLink="true">https://www.instyle.com/eos-firming-body-lotion-sale-amazon-11892885</guid>
         </item>
     </channel>
 </rss>
