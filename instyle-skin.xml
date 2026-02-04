@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 04 Feb 2026 10:32:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 11:28:24 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/olivia-dean-hourglass-illusion-illuminous-glow-foundation-11898696</link>
+            <guid isPermaLink="true">https://www.instyle.com/olivia-dean-hourglass-illusion-illuminous-glow-foundation-11898696</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/heidi-klum-loreal-midnight-cream-anti-aging-moisturizer-11897799</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/kate-hudson-makeup-free-backless-slinky-red-dress-bafta-nomination-11894242</link>
             <guid isPermaLink="true">https://www.instyle.com/kate-hudson-makeup-free-backless-slinky-red-dress-bafta-nomination-11894242</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/firming-body-lotion-editor-picks-11892746</link>
-            <guid isPermaLink="true">https://www.instyle.com/firming-body-lotion-editor-picks-11892746</guid>
         </item>
     </channel>
 </rss>
