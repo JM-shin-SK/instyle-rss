@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Feb 2026 05:50:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Feb 2026 06:48:55 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-used-anti-aging-beauty-products-11897589</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-used-anti-aging-beauty-products-11897589</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-cle-de-peau-vitality-serum-nordstrom-11897666</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/editor-tested-fashion-beauty-favorites-january-2026-11895534</link>
             <guid isPermaLink="true">https://www.instyle.com/editor-tested-fashion-beauty-favorites-january-2026-11895534</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/best-body-washes-for-dry-skin-8663031</link>
-            <guid isPermaLink="true">https://www.instyle.com/best-body-washes-for-dry-skin-8663031</guid>
         </item>
     </channel>
 </rss>
