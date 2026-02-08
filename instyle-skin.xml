@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Feb 2026 05:56:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Feb 2026 06:44:27 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/diane-von-furstenberg-skin-tint-review-11899713</link>
+            <guid isPermaLink="true">https://www.instyle.com/diane-von-furstenberg-skin-tint-review-11899713</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/charlotte-tilbury-airbrush-flawless-blur-concealer-review-11900419</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/skinmedica-neck-correct-anti-aging-cream-review-11897573</link>
             <guid isPermaLink="true">https://www.instyle.com/skinmedica-neck-correct-anti-aging-cream-review-11897573</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/sharon-stone-mario-badescu-rosewater-mist-11894626</link>
-            <guid isPermaLink="true">https://www.instyle.com/sharon-stone-mario-badescu-rosewater-mist-11894626</guid>
         </item>
     </channel>
 </rss>
