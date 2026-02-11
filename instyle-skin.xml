@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Feb 2026 08:39:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Feb 2026 09:44:24 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/jennifer-aniston-favorite-fashion-beauty-products-11903941</link>
+            <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-favorite-fashion-beauty-products-11903941</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/hailey-bieber-naturium-firming-body-butter-amazon-11902985</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-cle-de-peau-vitality-serum-nordstrom-11897666</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-cle-de-peau-vitality-serum-nordstrom-11897666</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/olivia-dean-hourglass-illusion-illuminous-glow-foundation-11898696</link>
-            <guid isPermaLink="true">https://www.instyle.com/olivia-dean-hourglass-illusion-illuminous-glow-foundation-11898696</guid>
         </item>
     </channel>
 </rss>
