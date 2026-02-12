@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 12 Feb 2026 01:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Feb 2026 04:17:43 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -16,6 +16,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/jennifer-aniston-favorite-fashion-beauty-products-11903941</link>
             <guid isPermaLink="true">https://www.instyle.com/jennifer-aniston-favorite-fashion-beauty-products-11903941</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/chelsea-handler-maxines-revenge-concealer-amazon-11903098</link>
+            <guid isPermaLink="true">https://www.instyle.com/chelsea-handler-maxines-revenge-concealer-amazon-11903098</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/elf-cosmetics-soft-glam-concealer-editor-review-11899691</link>
             <guid isPermaLink="true">https://www.instyle.com/elf-cosmetics-soft-glam-concealer-editor-review-11899691</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/martha-stewart-used-anti-aging-beauty-products-11897589</link>
-            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-used-anti-aging-beauty-products-11897589</guid>
         </item>
     </channel>
 </rss>
