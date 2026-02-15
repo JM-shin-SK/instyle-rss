@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 15 Feb 2026 05:51:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Feb 2026 06:41:51 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</link>
+            <guid isPermaLink="true">https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/gwyneth-paltrow-goop-youth-boost-peptide-cream-11904706</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/charlotte-tilbury-airbrush-flawless-blur-concealer-review-11900419</link>
             <guid isPermaLink="true">https://www.instyle.com/charlotte-tilbury-airbrush-flawless-blur-concealer-review-11900419</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/sarah-michelle-gellar-anti-aging-beauty-favorites-11899653</link>
-            <guid isPermaLink="true">https://www.instyle.com/sarah-michelle-gellar-anti-aging-beauty-favorites-11899653</guid>
         </item>
     </channel>
 </rss>
