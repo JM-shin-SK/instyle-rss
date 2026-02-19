@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 19 Feb 2026 01:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Feb 2026 04:13:06 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/fran-drescher-laura-geller-blurring-smoothing-primer-11908002</link>
+            <guid isPermaLink="true">https://www.instyle.com/fran-drescher-laura-geller-blurring-smoothing-primer-11908002</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sarah-michelle-gellar-olay-regenerist-serum-amazon-11908247</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/hailey-bieber-naturium-firming-body-butter-amazon-11902985</link>
             <guid isPermaLink="true">https://www.instyle.com/hailey-bieber-naturium-firming-body-butter-amazon-11902985</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/diane-von-furstenberg-skin-tint-review-11899713</link>
-            <guid isPermaLink="true">https://www.instyle.com/diane-von-furstenberg-skin-tint-review-11899713</guid>
         </item>
     </channel>
 </rss>
