@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 20 Feb 2026 22:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Feb 2026 23:21:55 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -39,6 +39,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/best-eye-creams-for-mature-skin-11900103</link>
+            <guid isPermaLink="true">https://www.instyle.com/best-eye-creams-for-mature-skin-11900103</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</guid>
         </item>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/terez-and-honor-overnight-collagen-mask-review-amazon-11905097</link>
             <guid isPermaLink="true">https://www.instyle.com/terez-and-honor-overnight-collagen-mask-review-amazon-11905097</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/gwyneth-paltrow-goop-youth-boost-peptide-cream-11904706</link>
-            <guid isPermaLink="true">https://www.instyle.com/gwyneth-paltrow-goop-youth-boost-peptide-cream-11904706</guid>
         </item>
     </channel>
 </rss>
