@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 24 Feb 2026 09:43:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Feb 2026 10:40:48 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/kelly-rowland-drew-olay-super-serum-amazon-11909936</link>
+            <guid isPermaLink="true">https://www.instyle.com/kelly-rowland-drew-olay-super-serum-amazon-11909936</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/rosen-apothecary-retinol-body-lotion-amazon-11909206</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</link>
             <guid isPermaLink="true">https://www.instyle.com/martha-stewart-merit-great-skin-priming-moisturizer-11906700</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/mom-approved-skin-care-for-simple-effective-routine-11906417</link>
-            <guid isPermaLink="true">https://www.instyle.com/mom-approved-skin-care-for-simple-effective-routine-11906417</guid>
         </item>
     </channel>
 </rss>
