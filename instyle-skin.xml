@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 22:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 23:45:11 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -39,6 +39,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/nicole-richie-eucerin-skin-care-beauty-favorites-11915374</link>
+            <guid isPermaLink="true">https://www.instyle.com/nicole-richie-eucerin-skin-care-beauty-favorites-11915374</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/roc-multicorrexion-neck-cream-sarah-jessica-parker-11914602</link>
             <guid isPermaLink="true">https://www.instyle.com/roc-multicorrexion-neck-cream-sarah-jessica-parker-11914602</guid>
         </item>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/supergoop-protectint-daily-skin-tint-editors-review-11912537</link>
             <guid isPermaLink="true">https://www.instyle.com/supergoop-protectint-daily-skin-tint-editors-review-11912537</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/kelly-rowland-drew-olay-super-serum-amazon-11909936</link>
-            <guid isPermaLink="true">https://www.instyle.com/kelly-rowland-drew-olay-super-serum-amazon-11909936</guid>
         </item>
     </channel>
 </rss>
