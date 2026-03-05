@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 05 Mar 2026 01:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Mar 2026 04:05:51 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</link>
+            <guid isPermaLink="true">https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/iunik-daily-moisturizer-amazon-review-11917674</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/rosen-apothecary-retinol-body-lotion-amazon-11909206</link>
             <guid isPermaLink="true">https://www.instyle.com/rosen-apothecary-retinol-body-lotion-amazon-11909206</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/loreal-paris-lumi-skin-tint-amazon-review-11909197</link>
-            <guid isPermaLink="true">https://www.instyle.com/loreal-paris-lumi-skin-tint-amazon-review-11909197</guid>
         </item>
     </channel>
 </rss>
