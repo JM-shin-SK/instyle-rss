@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 15:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 16:19:00 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -16,6 +16,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/kate-hudson-keren-bartov-firming-skin-serum-11921347</link>
             <guid isPermaLink="true">https://www.instyle.com/kate-hudson-keren-bartov-firming-skin-serum-11921347</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/magnesium-glycinate-benefits-skin-sleep-11920758</link>
+            <guid isPermaLink="true">https://www.instyle.com/magnesium-glycinate-benefits-skin-sleep-11920758</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/necessaire-hand-retinol-cream-editor-review-11914618</link>
             <guid isPermaLink="true">https://www.instyle.com/necessaire-hand-retinol-cream-editor-review-11914618</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/nicole-richie-eucerin-skin-care-beauty-favorites-11915374</link>
-            <guid isPermaLink="true">https://www.instyle.com/nicole-richie-eucerin-skin-care-beauty-favorites-11915374</guid>
         </item>
     </channel>
 </rss>
