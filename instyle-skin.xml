@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 08 Mar 2026 10:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2026 11:15:19 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -34,6 +34,11 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/yerin-ha-kosas-revealer-liquid-foundation-amazon-11919790</link>
+            <guid isPermaLink="true">https://www.instyle.com/yerin-ha-kosas-revealer-liquid-foundation-amazon-11919790</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sarah-michelle-gellar-olay-regenerist-cream-amazon-11919781</link>
             <guid isPermaLink="true">https://www.instyle.com/sarah-michelle-gellar-olay-regenerist-cream-amazon-11919781</guid>
         </item>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/iunik-daily-moisturizer-amazon-review-11917674</link>
             <guid isPermaLink="true">https://www.instyle.com/iunik-daily-moisturizer-amazon-review-11917674</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/naeli-firming-retinol-night-cream-amazon-11873813</link>
-            <guid isPermaLink="true">https://www.instyle.com/naeli-firming-retinol-night-cream-amazon-11873813</guid>
         </item>
     </channel>
 </rss>
