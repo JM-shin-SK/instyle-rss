@@ -4,7 +4,7 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 10 Mar 2026 08:32:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Mar 2026 09:36:37 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
@@ -26,6 +26,11 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/kate-hudson-keren-bartov-firming-skin-serum-11921347</link>
             <guid isPermaLink="true">https://www.instyle.com/kate-hudson-keren-bartov-firming-skin-serum-11921347</guid>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/anne-hathaway-shiseido-firming-serum-11919768</link>
+            <guid isPermaLink="true">https://www.instyle.com/anne-hathaway-shiseido-firming-serum-11919768</guid>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</link>
             <guid isPermaLink="true">https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/kate-hudson-beauty-pie-serum-11919449</link>
-            <guid isPermaLink="true">https://www.instyle.com/kate-hudson-beauty-pie-serum-11919449</guid>
         </item>
     </channel>
 </rss>
