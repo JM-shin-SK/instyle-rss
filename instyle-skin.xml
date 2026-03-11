@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 11 Mar 2026 21:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Mar 2026 22:20:45 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/cindy-crawford-makeup-free-skinny-dipping-hot-tub-morning-skincare-wellness-routine-11924226</link>
+            <guid isPermaLink="true">https://www.instyle.com/cindy-crawford-makeup-free-skinny-dipping-hot-tub-morning-skincare-wellness-routine-11924226</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/charlotte-tilbury-magic-cream-amal-clooney-11922373</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sarah-michelle-gellar-olay-regenerist-cream-amazon-11919781</link>
             <guid isPermaLink="true">https://www.instyle.com/sarah-michelle-gellar-olay-regenerist-cream-amazon-11919781</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</link>
-            <guid isPermaLink="true">https://www.instyle.com/oneskin-anti-aging-cream-jennifer-aniston-11917642</guid>
         </item>
     </channel>
 </rss>
