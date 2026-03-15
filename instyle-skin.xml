@@ -4,9 +4,14 @@
         <description><![CDATA[InStyle – Skin]]></description>
         <link>https://www.instyle.com/skin-5341478</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 14 Mar 2026 23:20:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Mar 2026 01:45:16 GMT</lastBuildDate>
         <atom:link href="https://JM-shin-SK.github.io/instyle-rss/instyle-skin.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://www.instyle.com/belief-eye-cream-amazon-11924220</link>
+            <guid isPermaLink="true">https://www.instyle.com/belief-eye-cream-amazon-11924220</guid>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/hailey-bieber-naturium-firming-body-cream-11922357</link>
@@ -51,11 +56,6 @@
             <title><![CDATA[No title]]></title>
             <link>https://www.instyle.com/sarah-pidgeon-hailey-bieber-rhode-barrier-cream-11920428</link>
             <guid isPermaLink="true">https://www.instyle.com/sarah-pidgeon-hailey-bieber-rhode-barrier-cream-11920428</guid>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <link>https://www.instyle.com/magnesium-glycinate-beauty-benefits-11920758</link>
-            <guid isPermaLink="true">https://www.instyle.com/magnesium-glycinate-beauty-benefits-11920758</guid>
         </item>
     </channel>
 </rss>
